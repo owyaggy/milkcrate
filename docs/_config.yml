@@ -35,7 +35,6 @@ plugins:
 minima:
   skin: dark
   nav_pages:
-    - about.md
     - discovery.md
     - impacts.md
     - why.md
