@@ -28,7 +28,16 @@ url: "https://mini.milkcrate.cc" # the base hostname & protocol for your site, e
 github_username:  owyaggy
 
 # Build settings
-theme: minima-dark
+theme: minima
+minima:
+  skin: dark
+  nav_pages:
+    - about.md
+    - discovery.md
+    - impacts.md
+    - why.md
+    - improvements.md
+    - pilot.md
 plugins:
   - jekyll-feed
 
