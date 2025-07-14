@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Impacts on Music and Culture
+title: Impacts
 permalink: /impacts/
 ---
 
-Hello impacts
+### Impacts on Music and Culture

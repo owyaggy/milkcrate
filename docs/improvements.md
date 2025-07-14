@@ -1,7 +1,8 @@
 ---
 layout: page
-title: How To Make It Better
+title: Improvements
 permalink: /improvements/
 ---
 
-Hello improvements
+### How To Make It Better
+

@@ -4,4 +4,4 @@ title: Why It Matters
 permalink: /why/
 ---
 
-Hello why
+### Why Musical Connection is Worth Pursuing

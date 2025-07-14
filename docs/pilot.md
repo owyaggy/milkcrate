@@ -1,7 +1,7 @@
 ---
 layout: page
-title: A Music Catalog Pilot
+title: Pilot
 permalink: /pilot/
 ---
 
-Hello pilot
+### A Small Demo of a Music Catalog Centered on Listener-Art(ist) Connections

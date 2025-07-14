@@ -1,7 +1,7 @@
 ---
 layout: page
-title: How Music Discovery Works
+title: Music Discovery
 permalink: /discovery/
 ---
 
-Hello discovery
+### How Does Music Discovery Work?
